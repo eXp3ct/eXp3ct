@@ -16,3 +16,4 @@
 
 - Vk [страница](https://vk.com/exp3cted)
 - Telegram [@exp3cted](https://t.me/exp3cted)
+- Почта roma.veselov.1990@mail.ru
