@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, меня зовут Роман Веселов! 👋
 
-<!--
-**eXp3ct/eXp3ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я являюсь самоучкой в сфере программирования и разработки различных приложений.
 
-Here are some ideas to get you started:
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=eXp3ct&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Обо мне
+
+- 🔭 На данный момент являюсь студентом 4-го курса по направлению "Информационная безопасность"
+- 🌐 Любимым языком программирования для себя выбрал C#
+
+## Предпочитаемый стэк технологий
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,html,css,js)](https://skillicons.dev)
+
+## 📬 Контакты
+
+- Vk [страница](https://vk.com/exp3cted)
+- Telegram [@exp3cted](https://t.me/exp3cted)
